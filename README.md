@@ -3,7 +3,7 @@
 # MCM Helper - SkyUI 6 Compatibility Patch 2026
 [![Stars](https://img.shields.io/github/stars/SamDiep/MCM-Helper-SkyUI-6-Compatibility-Patch)](https://github.com/SamDiep/MCM-Helper-SkyUI-6-Compatibility-Patch) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# This interim patch for MCM Helper 1.5.0 provides the following changes:
+## This interim patch for MCM Helper 1.5.0 provides the following changes:
 
 **-Removes deprecated SWF Version Checking toggles.**
 
